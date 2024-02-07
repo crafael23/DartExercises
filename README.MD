@@ -1,5 +1,7 @@
 # Guía de ejercicios en Dart
 
+Claudio Rafael Vasquez Lopez, 20192002377
+
 1. Crea un programa que verifique si un número es par o impar.
 2. Crea un programa que sume todos los números de una lista sin usar una función propia de Dart para realizarlo.
 3. Crea un programa el cual imprima una lista con los primeros 15 números de la sucesión de Fibonacci.
